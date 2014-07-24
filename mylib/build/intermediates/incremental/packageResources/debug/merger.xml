@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="/Users/kanilturgut/AndroidstudioProjects/FizzService/mylib/src/main/res" >
+            <file
+                name="ic_launcher"
+                path="/Users/kanilturgut/AndroidstudioProjects/FizzService/mylib/src/main/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/kanilturgut/AndroidstudioProjects/FizzService/mylib/src/main/res/drawable-ldpi/ic_launcher.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/kanilturgut/AndroidstudioProjects/FizzService/mylib/src/main/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/kanilturgut/AndroidstudioProjects/FizzService/mylib/src/main/res/drawable-xhdpi/ic_launcher.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                path="/Users/kanilturgut/AndroidstudioProjects/FizzService/mylib/src/main/res/values/attrs.xml"
+                qualifiers="" >
+                <declare-styleable name="AutofitTextView" >
+                    <attr
+                        name="minTextSize"
+                        format="dimension" />
+                    <attr
+                        name="precision"
+                        format="float" />
+                    <attr
+                        name="sizeToFit"
+                        format="boolean" />
+                </declare-styleable>
+            </file>
+            <file
+                path="/Users/kanilturgut/AndroidstudioProjects/FizzService/mylib/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="app_name" >ACTIVITY_ENTRY_NAME
+                </string>
+                <string name="app_needs_internet_connection" >Sunucuya bağlanamıyoruz. İnternet bağlantınızı kontrol ettikten sonra tekrar deneyiniz.
+                </string>
+                <string name="no_internet_title" >Bağlantı Hatası
+                </string>
+            </file>
+            <file
+                path="/Users/kanilturgut/AndroidstudioProjects/FizzService/mylib/src/main/res/values/typeface_textview_attrs.xml"
+                qualifiers="" >
+                <declare-styleable name="MyTextView" >
+                    <attr
+                        name="font"
+                        format="string" />
+                </declare-styleable>
+            </file>
+        </source>
+        <source path="/Users/kanilturgut/AndroidstudioProjects/FizzService/mylib/build/generated/res/rs/debug" />
+        <source path="/Users/kanilturgut/AndroidstudioProjects/FizzService/mylib/build/generated/res/generated/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/kanilturgut/AndroidstudioProjects/FizzService/mylib/src/debug/res" />
+    </dataSet>
+
+</merger>

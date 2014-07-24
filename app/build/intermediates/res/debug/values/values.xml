@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/Users/kanilturgut/AndroidstudioProjects/FizzService/app/build/intermediates/exploded-aar/FizzService/mylib/unspecified/res/values/values.xml -->
+    <eat-comment />
+
+    <declare-styleable name="AutofitTextView">
+        <attr name="minTextSize" format="dimension" />
+        <attr name="precision" format="float" />
+        <attr name="sizeToFit" format="boolean" />
+    </declare-styleable>
+    <declare-styleable name="MyTextView">
+        <attr name="font" format="string" />
+    </declare-styleable>
+    <!-- From: file:/Users/kanilturgut/AndroidstudioProjects/FizzService/app/src/main/res/values/dimens.xml -->
+    <eat-comment />
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/Users/kanilturgut/AndroidstudioProjects/FizzService/app/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="action_settings">Settings</string>
+    <string name="app_name">FizzService</string>
+    <!-- From: file:/Users/kanilturgut/AndroidstudioProjects/FizzService/app/build/intermediates/exploded-aar/FizzService/mylib/unspecified/res/values/values.xml -->
+    <eat-comment />
+
+    <string name="app_needs_internet_connection">Sunucuya bağlanamıyoruz. İnternet bağlantınızı kontrol ettikten sonra tekrar deneyiniz.</string>
+    <!-- From: file:/Users/kanilturgut/AndroidstudioProjects/FizzService/app/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="hello_world">Hello world!</string>
+    <!-- From: file:/Users/kanilturgut/AndroidstudioProjects/FizzService/app/build/intermediates/exploded-aar/FizzService/mylib/unspecified/res/values/values.xml -->
+    <eat-comment />
+
+    <string name="no_internet_title">Bağlantı Hatası</string>
+    <!-- From: file:/Users/kanilturgut/AndroidstudioProjects/FizzService/app/src/main/res/values/styles.xml -->
+    <eat-comment />
+
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+</resources>

@@ -1,0 +1,22 @@
+int attr font 0x7f010003
+int attr minTextSize 0x7f010000
+int attr precision 0x7f010001
+int attr sizeToFit 0x7f010002
+int dimen activity_horizontal_margin 0x7f040000
+int dimen activity_vertical_margin 0x7f040001
+int drawable ic_launcher 0x7f020000
+int id action_settings 0x7f080000
+int layout activity_my 0x7f030000
+int menu my 0x7f070000
+int string action_settings 0x7f050000
+int string app_name 0x7f050001
+int string app_needs_internet_connection 0x7f050002
+int string hello_world 0x7f050003
+int string no_internet_title 0x7f050004
+int style AppTheme 0x7f060000
+int[] styleable AutofitTextView { 0x7f010000, 0x7f010001, 0x7f010002 }
+int styleable AutofitTextView_minTextSize 0
+int styleable AutofitTextView_precision 1
+int styleable AutofitTextView_sizeToFit 2
+int[] styleable MyTextView { 0x7f010003 }
+int styleable MyTextView_font 0
