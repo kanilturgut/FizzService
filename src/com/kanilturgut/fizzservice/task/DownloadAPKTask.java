@@ -2,7 +2,6 @@ package com.kanilturgut.fizzservice.task;
 
 import android.content.Context;
 import android.os.AsyncTask;
-
 import com.kanilturgut.fizzservice.ADB;
 import com.kanilturgut.fizzservice.model.Venue;
 import com.kanilturgut.mylib.Logs;

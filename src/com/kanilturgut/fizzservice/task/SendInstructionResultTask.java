@@ -1,10 +1,8 @@
 package com.kanilturgut.fizzservice.task;
 
 import android.os.AsyncTask;
-
 import com.kanilturgut.fizzservice.Requests;
 import com.kanilturgut.mylib.Logs;
-
 import org.apache.http.HttpResponse;
 import org.apache.http.HttpStatus;
 import org.json.JSONException;

@@ -3,7 +3,6 @@ package com.kanilturgut.fizzservice;
 import android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.Intent;
-
 import com.kanilturgut.mylib.Logs;
 
 /**

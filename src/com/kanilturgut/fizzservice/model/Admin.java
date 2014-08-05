@@ -8,7 +8,7 @@ import org.json.JSONObject;
  * Time     : 18:59
  */
 public class Admin {
-    
+
     static Admin admin = null;
 
     public static Admin getInstance() {

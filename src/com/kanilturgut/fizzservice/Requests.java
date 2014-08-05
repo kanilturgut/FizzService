@@ -1,7 +1,6 @@
 package com.kanilturgut.fizzservice;
 
 import com.kanilturgut.mylib.Logs;
-
 import org.apache.http.HttpResponse;
 import org.apache.http.StatusLine;
 import org.apache.http.client.HttpClient;

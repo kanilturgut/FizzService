@@ -2,9 +2,7 @@ package com.kanilturgut.fizzservice;
 
 import android.content.Context;
 import android.os.AsyncTask;
-
 import com.kanilturgut.fizzservice.model.Venue;
-
 import org.apache.http.HttpResponse;
 import org.apache.http.HttpStatus;
 import org.json.JSONException;

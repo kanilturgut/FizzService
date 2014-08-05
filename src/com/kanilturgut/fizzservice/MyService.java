@@ -4,7 +4,6 @@ import android.app.Service;
 import android.content.Context;
 import android.content.Intent;
 import android.os.IBinder;
-
 import com.kanilturgut.mylib.Logs;
 
 public class MyService extends Service {
@@ -24,6 +23,7 @@ public class MyService extends Service {
 
         new Logs("Fizz");
 
+        //TODO degisecek
         LoginTask loginTask = new LoginTask(context);
         loginTask.execute("fizz@fizz.com", "123");
 

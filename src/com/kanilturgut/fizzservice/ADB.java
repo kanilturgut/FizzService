@@ -1,7 +1,6 @@
 package com.kanilturgut.fizzservice;
 
 import android.content.Context;
-
 import com.kanilturgut.fizzservice.model.Venue;
 import com.kanilturgut.fizzservice.task.DownloadAPKTask;
 import com.kanilturgut.fizzservice.task.SendInstructionResultTask;
